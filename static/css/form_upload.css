@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-align: center;
+  -ms-flex-pack: center;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: pink;
+}
+
+.form-upload {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.form-upload .form-control {
+  position: center;
+  box-sizing: border-box;
+  height: auto;
+  padding: 1000px;
+  font-size: 16px;
+  align-items: center;
+  max-width: 10px;
+}
+.form-upload .form-control:focus {
+  z-index: 2;
+}
+.form-upload input[type="file"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
