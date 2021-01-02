@@ -24,6 +24,8 @@ An input of a few letters will be enough for the algorithm to predict the whole 
 - Data Preprocessing: Resizing, Augmentation and Channel increasing
 - Model: Pretrained Resnet50 Architecture with Imagenet weights
 - Results:
+
+
 ![img](https://imgur.com/HEI9C10.png)
 
 
