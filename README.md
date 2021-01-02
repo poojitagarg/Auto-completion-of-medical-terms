@@ -9,6 +9,7 @@
 ## Introduction
 ---
 [(Back to top)](#list-of-contents)
+
 To develop an AI tool to make the process of providing the electronic prescription a hassle free task for them. We aim to use an integrated algorithm which includes:
 
 1. Recognizing handwriting employing a deep learning model.
