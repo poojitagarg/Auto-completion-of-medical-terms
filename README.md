@@ -48,6 +48,36 @@ An input of a few letters will be enough for the algorithm to predict the whole 
 ### 3. Web Application
 >>GIF
 
+## Installation
+---
+[(Back to top)](#list-of-contents)
+
+These instructions assume you have `git` installed for working with Github from command window.
+
+1. Clone the repository, and navigate to the downloaded folder. Follow below commands.
+```
+git clone https://github.com/poojitagarg/minor_project.git
+cd web_app1
+
+```
+
+2. Creating python virtual environment using virtualenv package using following lines of code.
+
+NOTE: For this step make sure you have virtualenv package installed.
+
+```
+virtualenv venv
+source venv/bin/activate
+
+```
+
+3. Install few required pip packages, which are specified in the requirements.txt file .
+```
+pip3 install -r requirements.txt
+
+```
+
+
 
 
 
