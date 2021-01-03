@@ -27,7 +27,7 @@ An input of a few letters will be enough for the algorithm to predict the whole 
 - Model: Pretrained Resnet50 Architecture with Imagenet weights
 - Results:
 
-![img](https://imgur.com/HEI9C10.png)
+![img](https://imgur.com/hvdoFfA.png)
 
 ### 2. Character level NLP model
 - Dataset: Medical Dictionary with 23500+ Prescription Drugs
@@ -40,14 +40,15 @@ An input of a few letters will be enough for the algorithm to predict the whole 
 
 - Model selection:
 
-![img](https://imgur.com/gxzjhq5.png)
+![img](https://imgur.com/c5VTL16.png)
 
 - Results: Using Previous algorithm and adding a 20% error prediction difference we get multiple outputs.
 
-![img](https://imgur.com/c6SyTEn.png)
+![img](https://imgur.com/XUCHVUe.png)
 
 ### 3. Web Application
->>GIF
+
+![img](https://imgur.com/qzdDp33.png)
 
 ## Installation
 ---
